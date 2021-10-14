@@ -17,51 +17,55 @@ This are some Open Resources for Recommender Systems
 
 ### Ranking(TOP-N) 比赛
 
-1. KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing（2020 KDD Cup 纠偏赛道）
+1. RecSys Challenge 2021 for Twitter Platform: Debiasing
+
+- 【第二名】https://github.com/Synerise/recsys-challenge-2021
+
+2. KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing（2020 KDD Cup 纠偏赛道）
 
 - 【第一名】https://github.com/aister2020/KDDCUP_2020_Debiasing_1st_Place
 - 【第六名】https://github.com/ChuanyuXue/KDDCUP-2020
 - 【第十名】https://github.com/xuetf/KDD_CUP_2020_Debiasing_Rush
 - 【第十三名】https://github.com/LogicJake/2020_KDD_Debiasing_TOP13
 
-2. KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall（2020 KDD Cup 多模式召回赛道）
+3. KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall（2020 KDD Cup 多模式召回赛道）
 
 - 【第一名】https://github.com/steven95421/KDD_WinnieTheBest
 - 【第八名】https://github.com/miziha-zp/KDD2020_mutilmodalities
 - 【第十名】https://github.com/dingyh0626/KDD-Cup-Multimodalities-Recall
 - 【第十二名】https://github.com/chengsyuan/KDD-Multimodalities-Recall
 
-3. CIKM 2019 E-Commerce AI Challenge - 超大规模推荐之用户兴趣高效检索
+4. CIKM 2019 E-Commerce AI Challenge - 超大规模推荐之用户兴趣高效检索
 - 【第一名】https://github.com/ChuanyuXue/CIKM-2019-AnalytiCup
 - 【第十名】https://github.com/kupuSs/CIKM-CUP-2019-track2-rank10
 
-4. 第二届阿里巴巴大数据智能云上编程大赛（智联招聘岗位推荐）
+5. 第二届阿里巴巴大数据智能云上编程大赛（智联招聘岗位推荐）
 - 【第一名】https://github.com/hydantess/TianChi_zhilianzhaopin
 - 【第四名】https://github.com/juzstu/TianChi_ZhiLianZhaoPin
 - 【第二十四名】https://github.com/magicwifi/zhaopin-zhilian
 
-5. BDCI 2018 面向电信行业存量用户的智能套餐个性化匹配模型
+6. BDCI 2018 面向电信行业存量用户的智能套餐个性化匹配模型
 - 【第一名】https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution
 - 【第二名】https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
 - 【第六名】https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
 
-6. 图灵联邦视频点击预测大赛
+7. 图灵联邦视频点击预测大赛
 - 【第三名】https://github.com/LogicJake/tuling-video-click-top3
 - 【第四名】https://github.com/biaobiao2/video-click-top4
 - 【第六名】https://github.com/ljhzxc/turingtopia_video_ctr
 - 【第七名】https://github.com/zavierhan/turing_video_ctr_top7
 - 【第九名】https://github.com/Tersaiz/Turingtopia_Videos_CTR
 
-7. 2017 达观杯个性化推荐算法挑战赛
+8. 2017 达观杯个性化推荐算法挑战赛
 - 【第六名】https://github.com/hecongqing/2017-daguan-competition
 
-8. BDCI 2017 商场中精确定位用户所在店铺
+9. BDCI 2017 商场中精确定位用户所在店铺
 - 【第一名】https://github.com/drop-out/Tianchi-Wifi-Positioning
 - 【第七名】https://github.com/totoruo/TianChi-Shop-Location-Competition
 - 【第九名】https://github.com/longxiong2016/Store_positioning
 - 【第三十名】https://github.com/pamperxg/CCF-TIANCHI-WiFipositioning
 
-9. 安泰杯 跨境电商智能算法大赛
+10. 安泰杯 跨境电商智能算法大赛
 - 【第一名】https://github.com/RainFung/Tianchi-AntaiCup-International-E-commerce-Artificial-Intelligence-Challenge
 
 10. 2020 腾讯广告算法大赛
