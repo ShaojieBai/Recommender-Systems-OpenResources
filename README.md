@@ -1,5 +1,5 @@
 # Recommender-Systems-OpenResources
-This are some Open Resources for Recommender Systems
+Here are some Open Resources for Recommender Systems
 
 ## 推荐系统经典论文开源项目汇总
 
