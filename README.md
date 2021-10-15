@@ -11,6 +11,11 @@ Here are some Open Resources for Recommender Systems
 - 【DL Algos in RS】https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation
 
 
+## 推荐系统经典论文整理
+
+1. 人民大学赵鑫教授团队 https://github.com/RUCAIBox/Awesome-RSPapers
+
+
 ## 推荐系统竞赛TOP开源方案汇总
 
 汇总国内外各大平台近年来推荐系统竞赛的TOP开源解决方案，持续更新中。
